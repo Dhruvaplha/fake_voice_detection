@@ -5,8 +5,7 @@ This project detects whether an audio file is spoofed or bonafide using fine-tun
 
 ## Team Members
 - Yashraj Kadam (22bds066)
-- Ayush Singh (22bds012)
-- Nachiket Apte (22bds041)
+- Dhruv tiwari(22bec013)
 - Harsh Raj (22bds027)
 
 ## Features
@@ -33,3 +32,4 @@ This Project is built on Python3.10.0
 3. ```bash
    pip install requirements.txt
    streamlit run app/main.py
+
